@@ -1,116 +1,37 @@
 {
   "main": {
-    "id": "9fa0b0613b12c9e3",
+    "id": "0a8a43fc7c51925c",
     "type": "split",
     "children": [
       {
-        "id": "3cec57a7ddeb9d06",
+        "id": "e9c477f7fdeffeed",
         "type": "tabs",
         "children": [
           {
-            "id": "d38bb7fedeb4bbf0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/sessions/Session 36.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Session 36"
-            }
-          },
-          {
-            "id": "e046b3577269b6b5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/sessions/Session 37.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Session 37"
-            }
-          },
-          {
-            "id": "3c3a8197e929aa34",
+            "id": "f94389a603059a7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "npc/groups/The Stallignment.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Stallignment"
-            }
-          },
-          {
-            "id": "5375e2d40e5d7798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "places/islands/Île Follette.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Île Follette"
-            }
-          },
-          {
-            "id": "991f001aa4ccf41c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "places/cities/New Sigil.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "New Sigil"
-            }
-          },
-          {
-            "id": "29140fee5e353c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "npc/groups/The Kismet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Kismet"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "eac2d945435f60fa",
+    "id": "0093de7645313a55",
     "type": "split",
     "children": [
       {
-        "id": "e643191698a6c5fc",
+        "id": "84ae19bfafbf06db",
         "type": "tabs",
         "children": [
           {
-            "id": "05c95755214d5bee",
+            "id": "b246519f878a39d8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -123,13 +44,13 @@
             }
           },
           {
-            "id": "006eb62f5e999630",
+            "id": "2251adc7c657c185",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -140,7 +61,7 @@
             }
           },
           {
-            "id": "8699f43334886a6a",
+            "id": "993a1f93b5f8390d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -156,61 +77,61 @@
     "width": 300
   },
   "right": {
-    "id": "c709221921f0dbc1",
+    "id": "c55c053e35af6d80",
     "type": "split",
     "children": [
       {
-        "id": "b48f1478eb8370ef",
+        "id": "c7ac367efe870f88",
         "type": "tabs",
         "children": [
           {
-            "id": "ab168f9c2f5e621a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "953c4e0dbea8df6e",
+            "id": "79ec012c3116b3e2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "places/cities/New Sigil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New Sigil"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "8e9ec9be5173fe5f",
+            "id": "f4ee65683c4f7e36",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "places/cities/New Sigil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from New Sigil"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "0033e2df6df5e9e7",
+            "id": "f19ccd3ba8dfed4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5e87cd1016cdf34a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -224,29 +145,20 @@
             }
           },
           {
-            "id": "5d21be3fb55622b1",
+            "id": "0e1e76b2dfddca8e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "dm/sessions/Session 15.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 15"
-            }
-          },
-          {
-            "id": "c36d9b155d7488bd",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,65 +167,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "bases:Create new base": false
     }
   },
-  "active": "991f001aa4ccf41c",
-  "lastOpenFiles": [
-    "places/islands/Île Follette.md",
-    "places/cities/New Sigil.md",
-    "dm/sessions/Session 37.md",
-    "npc/groups/The Stallignment.md",
-    "npc/groups/The Kismet.md",
-    "dm/sessions/Session 30.md",
-    "dm/sessions/Session 36.md",
-    "Pasted image 20260416173948.png",
-    "places/cities/Rusted Keys.md",
-    "Untitled.md",
-    "places/cities/Ruddy Rock.md",
-    "npc/groups/The Defiant.md",
-    "dm/sessions/Session 31.md",
-    "npc/people/Nohu.md",
-    "npc/people/Lord Emberfall.md",
-    "dm/sessions/Session 35.md",
-    "npc/people/Keelan Edge.md",
-    "dm/Hidden Lore/Soneela Tarot Reading.md",
-    "lore/Assassin Note 1.md",
-    "npc/groups/The Ascendent.md",
-    "dm/Hidden Lore/Dragon-Touched Artifacts.md",
-    "dm/sessions/Session 34.md",
-    "lore/adventuring_info/Kai Shark Spirit Blessings and Curses.md",
-    "dm/Hidden Lore/14127230",
-    "dm/Roll a 20.md",
-    "dm/Hidden Lore/F9891D50",
-    "dm/Hidden Lore/EE29FC50",
-    "dm/Hidden Lore/keelen_edge_notes.xlsx",
-    "dm/Hidden Lore/6E78FC50",
-    "dm/Hidden Lore/~$keelen_edge_notes.xlsx",
-    "dm/sessions/Session 32.md",
-    "npc/people/Hounga Kalfou.md",
-    "dm/DM Session Index.md",
-    "dm/puzzles/D22FC000",
-    "dm/puzzles/E20FC000",
-    "dm/puzzles/47ADC000",
-    "dm/puzzles/5BECC000",
-    "npc/people/Pasted image 20260111135740.png",
-    "npc/people/Pasted image 20251220122534.png",
-    "npc/people/soneela_img.png",
-    "npc/people/Pasted image 20251101184357.png",
-    "img/lord_maris_pic.png",
-    "npc/people/aine_mcphee.png",
-    "img/Pasted image 20251025144433.png",
-    "img/maps/rifterra.png",
-    "img/maps/Havangart.jpg",
-    "Untitled.canvas"
-  ]
+  "active": "f94389a603059a7a",
+  "lastOpenFiles": []
 }
