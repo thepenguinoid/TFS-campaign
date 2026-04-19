@@ -7,12 +7,6 @@ obsidian_folder_path_str: './'
 # Use full path or relative path, but don't use ~/
 obsidian_entrypoint_path_str: './README.md'
 
-md_folder_path_str: '../md'
-
-md_entrypoint_path_str: '../md/index.md'
-
-html_output_folder_path_str: '../'
-
 html_url_prefix: '/TFS-campaign'
 site_name: 'The First Steps'
 
