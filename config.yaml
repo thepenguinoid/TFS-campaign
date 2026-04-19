@@ -5,7 +5,7 @@ obsidian_folder_path_str: './'
 # The note that will be used as the index.html 
 # should be in obsidian_folder_path_str
 # Use full path or relative path, but don't use ~/
-obsidian_entrypoint_path_str: './README.md'
+obsidian_entrypoint_path_str: '<REQUIRED_INPUT>'
 
 html_url_prefix: '/TFS-campaign'
 site_name: 'The First Steps'
