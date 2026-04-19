@@ -11,10 +11,14 @@
             "id": "f94389a603059a7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Welcome Page.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Welcome Page"
             }
           }
         ]
@@ -177,5 +181,7 @@
     }
   },
   "active": "f94389a603059a7a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Welcome Page.md"
+  ]
 }
