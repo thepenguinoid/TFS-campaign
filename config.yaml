@@ -5,7 +5,13 @@ obsidian_folder_path_str: './'
 # The note that will be used as the index.html 
 # should be in obsidian_folder_path_str
 # Use full path or relative path, but don't use ~/
-obsidian_entrypoint_path_str: '<REQUIRED_INPUT>'
+obsidian_entrypoint_path_str: './README.md'
+
+md_folder_path_str: '/c/Users/davis/Documents/Game Stuff, Tabletop/DnD/DM Campaigns/The First Steps/md'
+
+md_entrypoint_path_str: '/c/Users/davis/Documents/Game Stuff, Tabletop/DnD/DM Campaigns/The First Steps/md/index.md'
+
+html_output_folder_path_str: '/c/Users/davis/Documents/Game Stuff, Tabletop/DnD/DM Campaigns/The First Steps'
 
 html_url_prefix: '/TFS-campaign'
 site_name: 'The First Steps'
